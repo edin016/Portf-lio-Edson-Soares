@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background: rgb(0, 255, 17)
+}
+
+.cabecalho-menu-links {
+
+
+
+
+}
+
+.conteudo {
+   height: auto;
+   flex-direction: column;
+   margin: 10%;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-bottom: 15px;
+
+}
+
+.apresentacao-conteudo {
+width: 615px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+height: auto;
+gap: 40x;
+order: 2;
+}
+
